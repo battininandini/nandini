@@ -1,0 +1,9 @@
+car headlight timer circuit
+resistor 4.7k ,1k,1k
+capicator 100uf
+diode in4002
+npn transistor
+pnp transistor 
+spst pushbutton
+coil voltage 12v,coil resistance 150-600ohms
+connect the parts as per the circuit diagram
